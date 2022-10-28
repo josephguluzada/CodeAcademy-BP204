@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\bin\Debug\net6.0\BP204-Conditions.exe
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\bin\Debug\net6.0\BP204-Conditions.deps.json
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\bin\Debug\net6.0\BP204-Conditions.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\bin\Debug\net6.0\BP204-Conditions.dll
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\bin\Debug\net6.0\BP204-Conditions.pdb
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.dll
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\refint\BP204-Conditions.dll
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.pdb
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\BP204-Conditions.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\28-10-2022\BP204-Conditions\BP204-Conditions\obj\Debug\net6.0\ref\BP204-Conditions.dll
