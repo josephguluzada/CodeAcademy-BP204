@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\bin\Debug\net6.0\BigO.exe
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\bin\Debug\net6.0\BigO.deps.json
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\bin\Debug\net6.0\BigO.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\bin\Debug\net6.0\BigO.dll
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\bin\Debug\net6.0\BigO.pdb
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.dll
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\refint\BigO.dll
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.pdb
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\BigO.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\4. 02-11-2022\BigO\BigO\obj\Debug\net6.0\ref\BigO.dll

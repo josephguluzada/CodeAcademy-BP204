@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array, BigO", "Array, BigO\Array, BigO.csproj", "{658DF388-3B7B-4190-9041-5CAE997F2372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658DF388-3B7B-4190-9041-5CAE997F2372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658DF388-3B7B-4190-9041-5CAE997F2372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658DF388-3B7B-4190-9041-5CAE997F2372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658DF388-3B7B-4190-9041-5CAE997F2372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EF4BC5-AF97-40EE-969B-1DB313047F11}
+	EndGlobalSection
+EndGlobal
