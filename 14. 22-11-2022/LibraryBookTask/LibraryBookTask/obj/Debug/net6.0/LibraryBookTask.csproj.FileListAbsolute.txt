@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\bin\Debug\net6.0\LibraryBookTask.exe
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\bin\Debug\net6.0\LibraryBookTask.deps.json
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\bin\Debug\net6.0\LibraryBookTask.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\bin\Debug\net6.0\LibraryBookTask.dll
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\bin\Debug\net6.0\LibraryBookTask.pdb
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.dll
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\refint\LibraryBookTask.dll
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.pdb
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\LibraryBookTask.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\14. 22-11-2022\LibraryBookTask\LibraryBookTask\obj\Debug\net6.0\ref\LibraryBookTask.dll

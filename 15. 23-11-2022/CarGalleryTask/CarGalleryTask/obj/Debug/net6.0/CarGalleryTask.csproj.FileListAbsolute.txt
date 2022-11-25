@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\bin\Debug\net6.0\CarGalleryTask.exe
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\bin\Debug\net6.0\CarGalleryTask.deps.json
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\bin\Debug\net6.0\CarGalleryTask.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\bin\Debug\net6.0\CarGalleryTask.dll
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\bin\Debug\net6.0\CarGalleryTask.pdb
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.dll
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\refint\CarGalleryTask.dll
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.pdb
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\CarGalleryTask.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\15. 23-11-2022\CarGalleryTask\CarGalleryTask\obj\Debug\net6.0\ref\CarGalleryTask.dll

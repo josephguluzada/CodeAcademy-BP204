@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\bin\Debug\net6.0\Class,Contructor.exe
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\bin\Debug\net6.0\Class,Contructor.deps.json
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\bin\Debug\net6.0\Class,Contructor.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\bin\Debug\net6.0\Class,Contructor.dll
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\bin\Debug\net6.0\Class,Contructor.pdb
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.dll
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\refint\Class,Contructor.dll
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.pdb
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\Class,Contructor.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\12. 18-11-2022\Class\Class,Contructor\obj\Debug\net6.0\ref\Class,Contructor.dll

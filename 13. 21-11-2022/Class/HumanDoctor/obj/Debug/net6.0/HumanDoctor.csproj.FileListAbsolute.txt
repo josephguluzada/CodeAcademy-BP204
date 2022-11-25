@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\bin\Debug\net6.0\HumanDoctor.exe
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\bin\Debug\net6.0\HumanDoctor.deps.json
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\bin\Debug\net6.0\HumanDoctor.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\bin\Debug\net6.0\HumanDoctor.dll
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\bin\Debug\net6.0\HumanDoctor.pdb
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.dll
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\refint\HumanDoctor.dll
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.pdb
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\HumanDoctor.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\13. 21-11-2022\Class\HumanDoctor\obj\Debug\net6.0\ref\HumanDoctor.dll
