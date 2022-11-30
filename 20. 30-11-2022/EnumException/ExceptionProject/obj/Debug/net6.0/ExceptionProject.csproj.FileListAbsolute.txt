@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\bin\Debug\net6.0\ExceptionProject.exe
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\bin\Debug\net6.0\ExceptionProject.deps.json
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\bin\Debug\net6.0\ExceptionProject.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\bin\Debug\net6.0\ExceptionProject.dll
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\bin\Debug\net6.0\ExceptionProject.pdb
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.dll
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\refint\ExceptionProject.dll
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.pdb
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ExceptionProject.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\20. 30-11-2022\EnumException\ExceptionProject\obj\Debug\net6.0\ref\ExceptionProject.dll

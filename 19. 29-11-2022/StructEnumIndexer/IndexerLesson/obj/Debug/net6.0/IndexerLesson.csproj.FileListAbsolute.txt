@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\bin\Debug\net6.0\IndexerLesson.exe
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\bin\Debug\net6.0\IndexerLesson.deps.json
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\bin\Debug\net6.0\IndexerLesson.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\bin\Debug\net6.0\IndexerLesson.dll
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\bin\Debug\net6.0\IndexerLesson.pdb
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.dll
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\refint\IndexerLesson.dll
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.pdb
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\IndexerLesson.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\19. 29-11-2022\StructEnumIndexer\IndexerLesson\obj\Debug\net6.0\ref\IndexerLesson.dll
