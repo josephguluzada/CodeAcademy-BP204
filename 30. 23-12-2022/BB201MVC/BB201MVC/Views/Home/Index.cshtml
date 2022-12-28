@@ -1,0 +1,12 @@
+﻿@model string;
+
+@{
+    //Layout = "_Layout1";
+    int number1 = (int)ViewData["number"];
+    int number2 = ViewBag.Number;
+    int number3 = (int)TempData["number2"];
+
+}
+
+<h1>Welcome to Index page</h1>
+<p>Name: @Model Number1: @number1 , Number2 : @number2  , Number3: @number3</p>

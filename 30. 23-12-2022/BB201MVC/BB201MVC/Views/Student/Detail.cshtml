@@ -1,0 +1,13 @@
+﻿@model Student;
+
+<ul>
+    @if (Model is not null)
+    {
+
+        <li>@Model.Id - @Model.Name @Model.Surname @Model.Age </li>
+    }
+    else
+    {
+        <p>Axtardiginiz telebe yoxdur</p>
+    }
+</ul>

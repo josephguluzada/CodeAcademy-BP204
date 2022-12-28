@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingDowncasting", "UpcastingDowncasting\UpcastingDowncasting.csproj", "{051A74CC-8E3A-4F69-B792-768BDF5F6066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTask", "ClassTask\ClassTask.csproj", "{0ECF1FD3-0D63-4E25-B785-730B9D08E95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051A74CC-8E3A-4F69-B792-768BDF5F6066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051A74CC-8E3A-4F69-B792-768BDF5F6066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051A74CC-8E3A-4F69-B792-768BDF5F6066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051A74CC-8E3A-4F69-B792-768BDF5F6066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECF1FD3-0D63-4E25-B785-730B9D08E95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECF1FD3-0D63-4E25-B785-730B9D08E95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECF1FD3-0D63-4E25-B785-730B9D08E95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECF1FD3-0D63-4E25-B785-730B9D08E95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1CAB40-8E74-4A09-B6D7-68BABB7B77D4}
+	EndGlobalSection
+EndGlobal

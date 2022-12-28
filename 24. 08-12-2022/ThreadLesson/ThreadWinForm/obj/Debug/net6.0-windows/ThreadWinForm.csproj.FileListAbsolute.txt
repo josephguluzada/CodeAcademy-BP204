@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\bin\Debug\net6.0-windows\ThreadWinForm.exe
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\bin\Debug\net6.0-windows\ThreadWinForm.deps.json
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\bin\Debug\net6.0-windows\ThreadWinForm.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\bin\Debug\net6.0-windows\ThreadWinForm.dll
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\bin\Debug\net6.0-windows\ThreadWinForm.pdb
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.Form1.resources
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.dll
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\refint\ThreadWinForm.dll
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.pdb
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ThreadWinForm.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\24. 08-12-2022\ThreadLesson\ThreadWinForm\obj\Debug\net6.0-windows\ref\ThreadWinForm.dll

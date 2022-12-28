@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\bin\Debug\net6.0\SerializationToBinaryXML.exe
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\bin\Debug\net6.0\SerializationToBinaryXML.deps.json
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\bin\Debug\net6.0\SerializationToBinaryXML.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\bin\Debug\net6.0\SerializationToBinaryXML.dll
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\bin\Debug\net6.0\SerializationToBinaryXML.pdb
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.dll
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\refint\SerializationToBinaryXML.dll
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.pdb
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\SerializationToBinaryXML.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\25. 09-12-2022\DirectoryInfoFileIOSerializeDeserialize\SerializationToBinaryXML\obj\Debug\net6.0\ref\SerializationToBinaryXML.dll

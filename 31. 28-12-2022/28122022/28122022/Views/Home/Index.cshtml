@@ -1,0 +1,64 @@
+﻿@model HomeViewModel;
+
+@{
+    ViewData["Title"] = "Index";
+    int count = 0;
+}
+
+
+<div class="row">
+    <div class= "col-lg-5">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Experience</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Teacher tch in Model.Teachers)
+                {
+                    count++;
+                    <tr>
+                        <th scope="row">@count</th>
+                        <td>@tch.Id</td>
+                        <td>@tch.Name</td>
+                        <td>@tch.Experience</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <div class= "col-lg-7">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">TeacherId</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Student std in Model.Students)
+                {
+                    count++;
+                    <tr>
+                        <th scope="row">@count</th>
+                        <td>@std.Id</td>
+                        <td>@std.Name</td>
+                        <td>@std.Age</td>
+                        <td>@std.TeacherId</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+

@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\bin\Debug\net6.0\PredicateTask.exe
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\bin\Debug\net6.0\PredicateTask.deps.json
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\bin\Debug\net6.0\PredicateTask.runtimeconfig.json
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\bin\Debug\net6.0\PredicateTask.dll
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\bin\Debug\net6.0\PredicateTask.pdb
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.dll
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\refint\PredicateTask.dll
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.pdb
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\PredicateTask.genruntimeconfig.cache
+C:\Users\asus\Desktop\University\BP204\23. 06-12-2022\ReflectionLesson\PredicateTask\obj\Debug\net6.0\ref\PredicateTask.dll

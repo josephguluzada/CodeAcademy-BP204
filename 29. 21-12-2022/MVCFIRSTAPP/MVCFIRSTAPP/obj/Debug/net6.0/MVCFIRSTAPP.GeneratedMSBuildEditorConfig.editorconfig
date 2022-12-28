@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCFIRSTAPP
+build_property.RootNamespace = MVCFIRSTAPP
+build_property.ProjectDir = C:\Users\asus\Desktop\University\BP204\29. 21-12-2022\MVCFIRSTAPP\MVCFIRSTAPP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asus\Desktop\University\BP204\29. 21-12-2022\MVCFIRSTAPP\MVCFIRSTAPP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asus/Desktop/University/BP204/29. 21-12-2022/MVCFIRSTAPP/MVCFIRSTAPP/Views/Home/GetHtml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRIdG1sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asus/Desktop/University/BP204/29. 21-12-2022/MVCFIRSTAPP/MVCFIRSTAPP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

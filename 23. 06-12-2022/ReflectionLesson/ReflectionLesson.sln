@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateTask", "PredicateTask\PredicateTask.csproj", "{868981D0-FB1C-4B1E-B15C-82EB682FF700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionLessons", "ReflectionLessons\ReflectionLessons.csproj", "{5CA71870-CD70-4EFC-A759-19050CFA5179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868981D0-FB1C-4B1E-B15C-82EB682FF700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868981D0-FB1C-4B1E-B15C-82EB682FF700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868981D0-FB1C-4B1E-B15C-82EB682FF700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868981D0-FB1C-4B1E-B15C-82EB682FF700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA71870-CD70-4EFC-A759-19050CFA5179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA71870-CD70-4EFC-A759-19050CFA5179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA71870-CD70-4EFC-A759-19050CFA5179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA71870-CD70-4EFC-A759-19050CFA5179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5003A686-5A09-4D12-BC92-885D179D95CA}
+	EndGlobalSection
+EndGlobal
