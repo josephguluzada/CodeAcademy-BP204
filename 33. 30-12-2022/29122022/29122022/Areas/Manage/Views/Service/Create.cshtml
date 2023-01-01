@@ -1,0 +1,25 @@
+﻿@model Service
+
+<div class="container">
+    <h1>Create Service</h1>
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input asp-for="Title" class="form-control" placeholder="Title">
+            <span asp-validation-for="Title" style="color:red"></span>
+        </div>
+         <div class="mb-3">
+            <label asp-for="Desc" class="form-label">Desc</label>
+            <input asp-for="Desc" class="form-control" placeholder="Desc">
+            <span asp-validation-for="Desc" style="color:red"></span>
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="Icon" class="form-label">Icon</label>
+            <input asp-for="Icon" class="form-control" placeholder="Icon">
+            <span asp-validation-for="Icon" style="color:red"></span>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
