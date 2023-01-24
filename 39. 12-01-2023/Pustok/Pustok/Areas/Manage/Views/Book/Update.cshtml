@@ -1,0 +1,125 @@
+﻿@model Book
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container-fluid">
+    <h1>Update</h1>
+
+    <form method="post" asp-action="update" enctype="multipart/form-data">
+        <div class="row align-items-center">
+            <div class="mb-3 col-md-2">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="Costprice" class="form-label">Costprice</label>
+                <input asp-for="Costprice" class="form-control" placeholder="Costprice">
+                <span asp-validation-for="Costprice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="SalePrice" class="form-label">SalePrice</label>
+                <input asp-for="SalePrice" class="form-control" placeholder="SalePrice">
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="DiscountPrice" class="form-label">DiscountPrice</label>
+                <input asp-for="DiscountPrice" class="form-control" placeholder="DiscountPrice">
+                <span asp-validation-for="DiscountPrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="Code" class="form-label">Code</label>
+                <input asp-for="Code" class="form-control" placeholder="Code">
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="mb-3 col-md-4">
+                <label asp-for="Desc" class="form-label">Desc</label>
+                <textarea class="form-control" asp-for="Desc" rows="5" placeholder="Description"></textarea>
+                <span asp-validation-for="Desc" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="AuthorId">Authors</label>
+                <select asp-for="AuthorId" asp-items="@ViewBag.Authors">
+                </select>
+                <span asp-validation-for="AuthorId" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="CategoryId">Categories</label>
+                <select asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.Categories,"Id","Name"))">
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="form-check col-md-4" style="padding-top: 16px;">
+                <input class="form-check-input my-1" style="transform : scale(2)" asp-for="IsAvailable">
+                <label class="form-check-label" style="margin-left:5px" asp-for="IsAvailable">
+                    IsAvailable
+                </label>
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+            <div class="form-check col-md-4" style="padding-top: 16px;">
+                <input class="form-check-input my-1" style="transform : scale(2)" asp-for="IsFeatured">
+                <label class="form-check-label" style="margin-left:5px" asp-for="IsFeatured">
+                    IsFeatured
+                </label>
+                <span asp-validation-for="IsFeatured" class="text-danger"></span>
+            </div>
+            <div class="form-check col-md-4" style="padding-top: 16px;">
+                <input class="form-check-input my-1" style="transform : scale(2)" asp-for="IsNew">
+                <label class="form-check-label" style="margin-left:5px" asp-for="IsNew">
+                    IsNew
+                </label>
+                <span asp-validation-for="IsNew" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row" style="padding-top: 20px">
+            <div class="mb-3 col-md-6">
+                <label asp-for="PosterImageFile" class="form-label">PosterImageFile</label>
+                <input asp-for="PosterImageFile" class="form-control" placeholder="PosterImageFile">
+                <span asp-validation-for="PosterImageFile" class="text-danger"></span>
+                <div style="width:200px; margin-top:20px">
+                    <img style="max-width:100%" src="~/uploads/books/@Model.BookImages.Where(x=>x.IsPoster == true).FirstOrDefault()?.ImageUrl"/>
+                </div>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label asp-for="HoverImageFile" class="form-label">HoverImageFile</label>
+                <input asp-for="HoverImageFile" class="form-control" placeholder="HoverImageFile">
+                <span asp-validation-for="HoverImageFile" class="text-danger"></span>
+                <div style="width:200px; margin-top:20px">
+                    <img style="max-width:100%" src="~/uploads/books/@Model.BookImages.Where(x=>x.IsPoster == false).FirstOrDefault()?.ImageUrl" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="mb-3 col-md-12">
+                <label asp-for="ImageFiles" class="form-label">ImageFiles</label>
+                <input asp-for="ImageFiles" class="form-control" placeholder="ImageFile">
+                <span asp-validation-for="ImageFiles" class="text-danger"></span>
+                <div class="row">
+                    @foreach (var bookImage in Model.BookImages.Where(bi => bi.IsPoster == null))
+                    {
+                        <div style="width:150px; margin-top:20px; position:relative" class="col-md-2">
+                            <img style="max-width:100%" src="~/uploads/books/@bookImage?.ImageUrl" />
+                            <span class="text-danger delete-image-button" style="position:absolute;font-size: 25px;font-weight: bold;cursor: pointer;top: 8px;right: 20px;">X</span>
+                            <input type="hidden" name="BookImageIds" value="@bookImage.Id" />
+                        </div>
+                    }
+                </div>
+                
+            </div>
+        </div>
+
+        <div style="width: 100%;display: flex;justify-content: center;align-items: center;">
+            <button type="submit" style="margin-right: 20px;" class="btn btn-primary">
+                Update
+            </button>
+            <a asp-action="index" asp-controller="book" class="btn btn-outline-success">Back</a>
+       </div>
+    </form>
+</div>

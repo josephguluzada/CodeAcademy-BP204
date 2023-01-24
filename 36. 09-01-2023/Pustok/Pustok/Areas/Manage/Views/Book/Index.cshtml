@@ -1,0 +1,45 @@
+﻿@model List<Book>
+@{
+    ViewData["Title"] = "Index";
+    int counter = 0;
+}
+
+<div class="container" style="display:flex; justify-content:space-between; align-items:center; margin-left:10px">
+    <h1>Index</h1>
+    <a asp-action="create" asp-controller="book" class="btn btn-success">Create a book</a>
+</div>
+
+<div class="container-fluid">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">CostPrice</th>
+                <th scope="col">SalePrice</th>
+                <th scope="col">BookCode</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Book book in Model)
+            {
+                counter++;
+                <tr>
+                    <th scope="row">@counter</th>
+                    <td>@book.Name</td>
+                    <td>@book.Costprice</td>
+                    <td>@book.SalePrice</td>
+                    <td>@book.Code</td>
+                    <td>
+                        <a asp-action="update" asp-controller="book" asp-route-id="@book.Id" class="btn btn-info">Update</a>
+                        <a asp-action="delete" asp-controller="book" asp-route-id="@book.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+

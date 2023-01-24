@@ -1,0 +1,79 @@
+﻿@model Book
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container-fluid">
+    <h1>Update</h1>
+
+    <form method="post" asp-action="update">
+        <div class="row align-items-center">
+            <div class="mb-3 col-md-2">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="Costprice" class="form-label">Costprice</label>
+                <input asp-for="Costprice" class="form-control" placeholder="Costprice">
+                <span asp-validation-for="Costprice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="SalePrice" class="form-label">SalePrice</label>
+                <input asp-for="SalePrice" class="form-control" placeholder="SalePrice">
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="DiscountPrice" class="form-label">DiscountPrice</label>
+                <input asp-for="DiscountPrice" class="form-control" placeholder="DiscountPrice">
+                <span asp-validation-for="DiscountPrice" class="text-danger"></span>
+            </div>
+            <div class="mb-3 col-md-2">
+                <label asp-for="Code" class="form-label">Code</label>
+                <input asp-for="Code" class="form-control" placeholder="Code">
+                <span asp-validation-for="Code" class="text-danger"></span>
+            </div>
+            <div class="form-check col-md-2" style="padding-top: 16px;">
+                <input class="form-check-input my-1" style="transform : scale(2)" asp-for="IsAvailable">
+                <label class="form-check-label" style="margin-left:5px" asp-for="IsAvailable">
+                    IsAvailable
+                </label>
+                <span asp-validation-for="IsAvailable" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="mb-3 col-md-4">
+                <label asp-for="Desc" class="form-label">Desc</label>
+                <textarea class="form-control" asp-for="Desc" rows="5" placeholder="Description"></textarea>
+                <span asp-validation-for="Desc" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="AuthorId">Authors</label>
+                <select class="form-select" aria-label="Default select example" asp-for="AuthorId">
+                    @foreach (Author author in ViewBag.Authors)
+                    {
+                        <option value="@author.Id">@author.Fullname</option>
+                    }
+                </select>
+                <span asp-validation-for="AuthorId" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="CategoryId">Categories</label>
+                <select class="form-select" aria-label="Default select example" asp-for="CategoryId">
+                    @foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+        </div>
+
+
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
+
+
